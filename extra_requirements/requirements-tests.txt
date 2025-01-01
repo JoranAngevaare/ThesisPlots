@@ -1,5 +1,5 @@
 astropy==4.3.1; python_version<='3.7'
-astropy==5.2.1; python_version>'3.7'
+astropy==7.0.0; python_version>'3.7'
 coverage==6.5.0
 coveralls==3.3.1
 galpy==1.8.3
